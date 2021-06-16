@@ -1,0 +1,3 @@
+[flake8]
+exclude = .gitignore,__pycache__,env,
+max-line-length = 119
